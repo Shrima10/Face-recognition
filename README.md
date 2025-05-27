@@ -72,7 +72,7 @@ face recognition/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Shrima07/face recognition.git
+git clone https://github.com/Shrima10/face recognition.git
 cd face recognition.git
 
 cd face-recognition
